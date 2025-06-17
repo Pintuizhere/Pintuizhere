@@ -30,18 +30,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintuizhere&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ### 🧩 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark&area=true&hide_border=true" />
 </p>
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
 
 ---
