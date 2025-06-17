@@ -1,5 +1,13 @@
 <!-- Profile README for Pintu Kumar -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F3FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pintu+Kumar!;Full+Stack+MERN+Developer;Front-end+Craftsman+%7C+UI+Stylist;Code.+Create.+Contribute.">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="dev-gif"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
@@ -11,7 +19,7 @@
 - 🌱 I’m currently learning **Advanced React Patterns & DevOps Basics**
 - 👨‍💻 All of my projects are available at [pintuizhere](https://github.com/Pintuizhere)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **pintukr.dev@gmail.com**
 - ⚡ Fun fact: *I debug like a detective 👨‍💻*
 
 ---
