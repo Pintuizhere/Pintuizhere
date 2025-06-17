@@ -1,7 +1,5 @@
 <!-- Profile README for Pintu Kumar -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pintuizhere&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight&hide_border=true&border_radius=12" height="180"/> </p>
-
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
