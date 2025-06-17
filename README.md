@@ -1,8 +1,6 @@
 <!-- Profile README for Pintu Kumar -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F3FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pintu+Kumar!;Full+Stack+MERN+Developer;Front-end+Craftsman+%7C+UI+Stylist;Code.+Create.+Contribute.">
-</h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pintuizhere&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight&hide_border=true&border_radius=12" height="180"/> </p>
 
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
