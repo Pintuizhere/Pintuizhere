@@ -1,4 +1,7 @@
 <!-- Profile README for Pintu Kumar -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F3FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Pintu+Kumar!;MERN+Stack+Developer+%7C+UI%2FUX+Enthusiast;Open+Source+%7C+Clean+Code+%7C+Fast+Web+Apps" alt="Typing Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
