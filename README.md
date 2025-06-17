@@ -40,12 +40,10 @@
 
 ---
 
-### 💬 Quote of the Day
+### 💡 Quote of the Day
 
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=tokyonight&border=none&quote=First,+solve+the+problem.+Then,+write+the+code.&author=John+Johnson" alt="Quote of the Day" />
-</p>
-
+> _"First, solve the problem. Then, write the code."_  
+> — **John Johnson**
 ---
 
 ### 🎥 Latest Project GIF Preview
