@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pintuizhere&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar1212" /> </p>
+
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
