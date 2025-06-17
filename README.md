@@ -36,6 +36,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
