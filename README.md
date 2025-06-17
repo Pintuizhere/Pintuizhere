@@ -37,9 +37,12 @@
 
 ### 🔥 Contribution Graph
 
+## 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pintuizhere&theme=react-dark&area=true" alt="GitHub Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
 
 ---
 
