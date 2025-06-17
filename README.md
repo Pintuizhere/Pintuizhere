@@ -1,16 +1,6 @@
 <!-- Profile README for Pintu Kumar -->
 
----
-
-### 🛠 Optional Extras
-
-Want to add:
-- A **visitor counter**?
-- Your **latest blog posts** auto-updated?
-- Live **project showcase from pinned repos**?
-
-Let me know, I can plug them in too.
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pintuizhere&theme=tokyonight&show_icons=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark" /> </p>
 
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
