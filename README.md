@@ -1,45 +1,54 @@
-# 👋 Hi, I'm [Your Name]  
-### **Full Stack Developer** from **India** 🇮🇳  
+# <img src="https://i.imgur.com/6J5qyWp.gif" width="30px"> **Hey there, I'm Pintuiz!**  
+### **🇮🇳 Full Stack Developer (MERN + Tailwind CSS)** from India  
+`Turning coffee into code since ${new Date().getFullYear() - 2020}`  
 
-💻 Passionate about building **scalable web apps** with modern tech  
-🚀 **Frontend-first mindset**, but comfortable across the stack  
-📌 Open to collaborations & exciting opportunities  
-
----
-
-## 🛠 **Tech Stack**  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&duration=3000&pause=500&color=FF6D91&center=true&vCenter=true&width=500&lines=Anime+Lover+%F0%9F%8E%AD;Full+Stack+Dev+%E2%9C%A8;Open+Source+Contributor+%F0%9F%A4%9D">
+</p>
 
 ---
 
-## 🔥 **GitHub Stats**  
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)  
+## 🎌 **Tech Weeb Stack**  
+
+### **Frontend (Otaku Approved)**  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FF9EB3"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=FF9EB3">  
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=FF9EB3"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF9EB3">  
+
+### **Backend (Shinobi Mode)**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=A2D4F5"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=A2D4F5">  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=A2D4F5"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=A2D4F5">  
 
 ---
 
-## 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
+## 📊 **GitHub Stats (Anime Power Levels)**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pintuiz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6D91&icon_color=79D7FD" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintuiz&theme=tokyonight&hide_border=true&background=0D1117&stroke=79D7FD&ring=FF6D91&fire=FF6D91&currStreakLabel=FF6D91" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuiz&theme=tokyonight&hide_border=true&bg_color=0D1117&color=79D7FD&line=FF6D91&point=FFFFFF">
+</div>
 
 ---
 
-### **Fun Fact:**  
-⚡ When I'm not coding, I'm probably [hobby/interest, e.g., "playing chess ♟️ or exploring new tech"]  
+## 🎮 **Current Obsessions**  
+- 🔥 Building **MERN stack projects** with anime-themed UIs  
+- 📺 Watching: **Jujutsu Kaisen** (always)  
+- 🎧 Listening: **Tokyo Ghoul OST** on loop  
+
+---
+
+## 📬 **Connect With Me (Let's Talk Waifus & Code)**  
+
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+<a href="https://pintuiz.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6D91?style=for-the-badge&logo=google-chrome&logoColor=white"></a>  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pintuiz&label=Profile%20Views&color=FF6D91&style=flat-square" alt="Pintuiz" />
+  <img src="https://img.shields.io/github/followers/Pintuiz?label=Followers&style=social&color=FF6D91" alt="Followers">
+</p>
