@@ -10,7 +10,7 @@
 ---
 
 - 🔭 I’m currently working on **MERN stack projects**
-- 🌱 I’m currently learning **Advanced React Patterns & DevOps Basics**
+- 🌱 I’m currently learning **BACKEND & Solving Leetcode Problem**
 - 👨‍💻 All of my projects are available at [pintuizhere](https://github.com/Pintuizhere)
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap**
 - 📫 How to reach me: **pintukr.dev@gmail.com**
