@@ -31,13 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintuizhere&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark" /> </p>
-
----
-
 ### 🔥 Contribution Graph
-
-## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
