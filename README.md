@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintuizhere&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Pintuizhere&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark" /> </p>
+ <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=react-dark" /> </p>
 
 ---
 
