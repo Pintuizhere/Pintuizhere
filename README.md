@@ -1,5 +1,17 @@
 <!-- Profile README for Pintu Kumar -->
 
+---
+
+### 🛠 Optional Extras
+
+Want to add:
+- A **visitor counter**?
+- Your **latest blog posts** auto-updated?
+- Live **project showcase from pinned repos**?
+
+Let me know, I can plug them in too.
+
+
 <h1 align="center">Hi 👋, I'm Pintu Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
