@@ -58,24 +58,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Pintuizhere&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="Pintu Kumar GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=tokyo-night&hide_border=true&area=true"
-    alt="Pintu Kumar Contribution Graph"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
