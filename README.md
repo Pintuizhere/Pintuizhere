@@ -61,8 +61,17 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pintuizhere&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="180" alt="Pintu Kumar GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintuizhere&layout=compact&hide_border=true&theme=tokyonight" height="180" alt="Top programming languages" />
+  <img
+    src="https://streak-stats.demolab.com?user=Pintuizhere&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Pintu Kumar GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pintuizhere&theme=tokyo-night&hide_border=true&area=true"
+    alt="Pintu Kumar Contribution Graph"
+  />
 </p>
 
 ---
